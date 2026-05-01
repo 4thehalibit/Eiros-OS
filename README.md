@@ -1,4 +1,4 @@
-# NixOS Config
+# Eiros — NixOS on Framework Laptop 16
 
 Personal NixOS setup built on the [Eiros](https://github.com/lcleveland/eiros) framework.
 
